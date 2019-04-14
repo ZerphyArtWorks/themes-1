@@ -1,12 +1,13 @@
 /* Make Channel Categories Match Role Categories */
 
+  --quinary-color: ##5b08d8,
 .nameCollapsed-34uFWo,
 .nameDefault-2DI02H,
 .nameHovered-1gxhWH,
 .nameHoveredCollapsed-2orEWB,
 .nameMuted-1MCOt4,
 .nameUnread-njOjIS {
-  color: var(--main-color);
+  color: var(--quinary-color);
   border-bottom: 3px solid;
   border-image: linear-gradient(90deg, transparent, var(--main-color), transparent);
   border-image-slice: 1;
